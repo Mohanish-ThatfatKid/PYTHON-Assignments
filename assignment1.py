@@ -1,9 +1,16 @@
+#Question 1
+import sys
+print(sys.version)
+
+
 # Question 4
 print("Hello Python")
 
 # Question 5
 print("Hello")
 print("Python")
+
+print("Hello","Python",sep='\n')
 
 # Question 6
 print("MySirG")

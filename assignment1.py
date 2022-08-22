@@ -13,10 +13,10 @@ print("Python")
 print("Hello","Python",sep='\n')
 
 # Question 6
-print("MySirG")
+print("\"MySirG\"")
 
 # Question 7
-print("Teacher's Day")
+print("\"Teacher's Day\"")
 
 #Question 8
 

@@ -1,5 +1,4 @@
 # 1. Write a Python script to create a list of first N natural numbers.
-from typing import List, Union
 
 l = [x for x in range(1,11)]
 print(l)
